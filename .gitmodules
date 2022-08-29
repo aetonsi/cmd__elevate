@@ -1,0 +1,3 @@
+[submodule "bin__kliu_elevate-1.3.0-redist"]
+	path = bin__kliu_elevate-1.3.0-redist
+	url = https://github.com/aetonsi/bin__kliu_elevate-1.3.0-redist.git
